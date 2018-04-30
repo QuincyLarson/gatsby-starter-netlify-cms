@@ -12,7 +12,7 @@ tags:
 This is a test. Please ignore this story.
 
 Here’s a photo of tests.
-<figure>![](https://cdn-images-1.medium.com/max/1024/1*TdAZOI2aCrWCR7bu39up3A.jpeg)</figure>
+![](https://cdn-images-1.medium.com/max/1024/1*TdAZOI2aCrWCR7bu39up3A.jpeg)</figure>
 
 #### Here’s a subheading
 
