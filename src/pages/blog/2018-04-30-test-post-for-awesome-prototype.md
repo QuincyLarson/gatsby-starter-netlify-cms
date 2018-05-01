@@ -65,14 +65,17 @@ Here’s an embed from a podcast:
 
 ---
 
+And a CodePen:
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fcodepen.io%2FfreeCodeCamp%2Fembed%2Fpreview%2FqRmMEq%3Fheight%3D600%26slug-hash%3DqRmMEq%26default-tabs%3Dhtml%2Cresult%26host%3Dhttps%3A%2F%2Fcodepen.io%26embed-version%3D2&url=https%3A%2F%2Fcodepen.io%2FfreeCodeCamp%2Ffull%2FqRmMEq&image=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fi.cdpn.io%2F260521.qRmMEq.small.a8236325-74c3-49f6-91c8-fe2e89678d24.png&key=a19fcc184b9711e1b4764040d3dc5c07&type=text%2Fhtml&schema=codepen" width="800" height="600" frameborder="0" scrolling="no">[https://medium.com/media/292f76e7fc6d0d50df4ee4d4c2ef8525/href](https://medium.com/media/292f76e7fc6d0d50df4ee4d4c2ef8525/href)</iframe>
+
+---
 
 Here’s a link to freeCodeCamp: [https://www.freecodecamp.org](https://www.freecodecamp.org)
 
 ---
 
-And here’s one of those preview cards:
+And here’s one of those link preview cards from Medium (doesn't really work):
 
 [Learn to code with free online courses, programming projects, and interview preparation for developer jobs.](https://www.freecodecamp.org)
 
@@ -80,10 +83,10 @@ And here’s one of those preview cards:
 Here’s a YouTube video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/twcOr043i4k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Thanks again for ignoring this.
-
 ---
 
-Medium attaches this to everything on its RSS feed.
+Here's a Scrimba:
+
+<iframe height="500px" width="100%" scrolling="yes" src="https://scrimba.com/p/pPPeCy/c7veET3">
 
 [This is a test story — please ignore it.](https://medium.freecodecamp.org/this-is-a-test-story-please-ignore-it-83524011ec98) was originally published in [freeCodeCamp](https://medium.freecodecamp.org) on Medium, where people are continuing the conversation by highlighting and responding to this story.
